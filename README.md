@@ -1,5 +1,5 @@
 # Robotica
-##Problemas a solucionar
+## Problemas a solucionar
 * 1. Trace un sistema UVW que se encuentra girado 85° alrededor del eje X con respecto al sistema XYZ. Y calcule las coordenadas del vector rxyz si ruvw = [3.5, 6.4, 9.1]
 
 * 2. Trace el vector r'xyz resultante de rotar el vector rxyz = [2.5, 4, 8.1] que se encuentra girado -15° sobre el eje Y.
